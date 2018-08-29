@@ -36,7 +36,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM produk ORDER BY id DESC");
 			}
 ?>
 		</table>
-			<br><a href="add.php">Daftar Barang Baru</a>
+			<br><a href="add.php">Daftar Barang Lama</a>
 			</center>
 		</fieldset>
 
